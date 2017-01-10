@@ -6129,6 +6129,9 @@ body {
   color: #C72425;
   font-weight: bold; }
 
+.img-responsive {
+  width: 100%; }
+
 /*Opacity animation*/
 @-webkit-keyframes show {
   0% {
