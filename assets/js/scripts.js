@@ -4,7 +4,7 @@
  * 
  * @author Grzegorz Spiewak
  * @version 0.0.1
- * Copyright 2016. MIT licensed.
+ * Copyright 2017. MIT licensed.
  */
 (function e(t,n,r){function s(o,u){if(!n[o]){if(!t[o]){var a=typeof require=="function"&&require;if(!u&&a)return a(o,!0);if(i)return i(o,!0);throw new Error("Cannot find module '"+o+"'")}var f=n[o]={exports:{}};t[o][0].call(f.exports,function(e){var n=t[o][1][e];return s(n?n:e)},f,f.exports,e,t,n,r)}return n[o].exports}var i=typeof require=="function"&&require;for(var o=0;o<r.length;o++)s(r[o]);return s})({1:[function(require,module,exports){
 (function (process,global,Buffer,__argument0,__argument1,__argument2,__argument3,__filename,__dirname){
@@ -1419,7 +1419,7 @@ showAnimation.initialize();
 hamburgerAnimation.initialize();
 smoothScroll.initialize();
 
-}).call(this,require("ngpmcQ"),typeof self !== "undefined" ? self : typeof window !== "undefined" ? window : {},require("buffer").Buffer,arguments[3],arguments[4],arguments[5],arguments[6],"/fake_11f2a969.js","/")
+}).call(this,require("ngpmcQ"),typeof self !== "undefined" ? self : typeof window !== "undefined" ? window : {},require("buffer").Buffer,arguments[3],arguments[4],arguments[5],arguments[6],"/fake_de806dcd.js","/")
 },{"./modules/barAnimation":6,"./modules/hamburger":7,"./modules/parallaxHeader":8,"./modules/showAnimation":9,"./modules/smoothScroll":10,"buffer":1,"ngpmcQ":4}],6:[function(require,module,exports){
 (function (process,global,Buffer,__argument0,__argument1,__argument2,__argument3,__filename,__dirname){
 /* Progress bar animation */
